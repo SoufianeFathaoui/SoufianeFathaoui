@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Soufiane Fathaoui, a seasoned full-stack web developer specializing in crafting optimized and responsive websites. My expertise encompasses a range of frameworks and programming languages, including HTML, CSS, JavaScript (ES6), React.js, Tailwind CSS, JAVA Spring, AWS, Docker, Firebase, SQL, and Oracle. With extensive experience in developing dynamic and efficient web solutions, I am committed to delivering high-quality results that meet the unique needs of each project.
+
 
 # 
-Benchari Khaoula - Software Engineer
+Fathaoui Soufiane - Software Engineer
 
 
 
@@ -11,12 +11,12 @@ Benchari Khaoula - Software Engineer
 
 👩‍💻 **About Me**
 
-As a software engineer with over three years of experience, I specialize in .NET technologies. I have a strong passion for developing innovative solutions that solve real-world problems and enhance user experiences. My expertise lies in collaborating with cross-functional teams to design and develop complex software systems for clients in various industries. I am always eager to expand my knowledge and stay current with the latest IT trends and best practices.
+I'm Soufiane Fathaoui, a seasoned full-stack web developer specializing in crafting optimized and responsive websites. My expertise encompasses a range of frameworks and programming languages, including HTML, CSS, JavaScript (ES6), React.js, Tailwind CSS, JAVA Spring, AWS, Docker, Firebase, SQL, and Oracle. With extensive experience in developing dynamic and efficient web solutions, I am committed to delivering high-quality results that meet the unique needs of each project.
 
  *How to reach me* 📫
- * 🌐 Visit [My Portfolio](https://khaoula1305.github.io/) for complete background and contact.
- * ✉️ [Email](khaoulabenchari9@gmail.com)
- * <a href="https://www.linkedin.com/in/khaoula1305" target="_blank"><img alt="khaoula1305's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ * 🌐 Visit [My Portfolio](https://soufiane-fathaoui.web.app/) for complete background and contact.
+ * ✉️ [Email](sf.fathaoui@gmail.com)
+ * <a href="https://www.linkedin.com/in/soufiane-fathaoui-335190222/" target="_blank"><img alt="khaoula1305's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 Feel free to connect with me for opportunities in software development, collaborations, or to discuss the latest trends in technology!
 
